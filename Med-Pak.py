@@ -18,12 +18,12 @@ if os.path.exists(page_icon_path):
         page_title="Med-Pak",
         page_icon="page_icon_path", 
         menu_items={
-            'About': "# Make By hiliuxg"
+            'About': "# Make By XIE and Jawaria"
         }
     )
 
 
-st.title("MediVirtuoso")
+st.title("Med-Pak")
 st.caption("Unveiling the Symphony of Healing with Comprehensive Drug Knowledge, Side Effect Insights, and Precision Dosage Guidance.")
 
 try:
@@ -49,7 +49,7 @@ chat = model.start_chat()
 
         
 with st.sidebar:
-    if st.button("Clear Chat Window", use_container_width=True, type="primary"):
+    if st.button("Create new Window", use_container_width=True, type="primary"):
         st.session_state.history.clear()  # Clear history from session
         st.experimental_rerun()  # Rerun to reset the chat
 

@@ -23,7 +23,7 @@ To get started with Med-Pak ChatBot, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd MediVirtuoso-ChatBot-Gemini-LLM
+    cd Med-Pak
     ```
 
 3. Activating venv (optional) 

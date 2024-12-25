@@ -50,7 +50,7 @@ To get started with Med-Pak ChatBot, follow these steps:
 6. Run the chatbot:
 
     ```bash
-    streamlit run MediVirtuoso.py
+    streamlit run Med-Pak.py
     ```
 
 ## Usage

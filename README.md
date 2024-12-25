@@ -1,19 +1,18 @@
-# 🤖 MediVirtuoso ChatBot with Gemini LLM
+# 🤖 Med-Pak ChatBot with Gemini LLM
 
-Welcome to MediVirtuoso, a chatbot specifically trained and powered by Google's Gemini Large Language Model (LLM). Engage in intelligent conversations and explore the capabilities of advanced language understanding!
+Welcome to Med-Pak, a chatbot specifically trained and powered by Google's Gemini Large Language Model (LLM). Engage in intelligent conversations and explore the capabilities of advanced language understanding!
 
 ## Table of Contents
 
-- [Introduction](#🤖-medivirtuoso-chatbot-with-gemini-llm)
+- [Introduction](#🤖-Med-Pak-chatbot-with-gemini-llm)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgement](#acknowledgement)
 - [Contact](#contact)
-- [Contributions](#contributions)
 
 ## Installation
 
-To get started with MediVirtuoso ChatBot, follow these steps:
+To get started with Med-Pak ChatBot, follow these steps:
 
 1. Clone the repository:
 
@@ -30,8 +29,8 @@ To get started with MediVirtuoso ChatBot, follow these steps:
 3. Activating venv (optional) 
 
     ```bash
-    conda create -n venv python=3.10
-    conda activate venv
+    python3 -m venv venv
+    source venv/bin/activate
     ```
 
 4. Install dependencies:
@@ -45,7 +44,7 @@ To get started with MediVirtuoso ChatBot, follow these steps:
     Rename `.env-sample` to `.env` file
     Replace the API your Google API Key, 
     ```
-    Kindly follow refer to this site for getting [your own key](https://ai.google.dev/tutorials/setup)
+    Kindly follow refer to this site gemini api builder for getting your own api 
     <br/>
 
 6. Run the chatbot:
@@ -62,7 +61,7 @@ Describe how to use the chatbot and any specific features or commands that users
 
 A special thanks to:
 
-- **Google's Gemini Large Language Model (LLM)** 🌐 - for powering the intelligence behind MediVirtuoso ChatBot.
+- **Google's Gemini Large Language Model (LLM)** 🌐 - for powering the intelligence behind Med-Pak ChatBot.
 - **Streamlit** 🚀 - for providing an amazing framework for creating the user interface.
 
 
@@ -71,14 +70,10 @@ A special thanks to:
 
 For inquiries or collaborations, connect with me through 📬:
 
-- Email: [vijaisuria87@gmail.com](mailto:vijaisuria87@gmail.com)
-- LinkedIn: [vijaisuria](https://www.linkedin.com/in/vijaisuria/)
-- Twitter: [vijaisuria](https://twitter.com/vijaisuria)
-- GitHub: [Vijai Suria](https://github.com/vijaisuria)
+- Email: [xie19113@gmail.com](mailto:xie19113@gmail.com@gmail.com)
+- Email: [Sameerrizwanf23@gmail.com](mailto:sameerrizwanf23@gmail.com)
+- Email: [jawariasabirf23@gmail.com](mailto:jawariasabirf23@gmail.com@gmail.com)
 
-## Contributions
-
-Contributions are welcome! If you want to contribute to the development of MediVirtuoso ChatBot, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 

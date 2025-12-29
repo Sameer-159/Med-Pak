@@ -1,7 +1,8 @@
-#Note
+
 # README.md
+
+# Note
 This repository is mirrored from my University account {https://github.com/Sameer-159} which i created but transfer the ownership as that was a temporary one, that account will only exist as long as i stay in the university.
-All development occurs in the primary repository.
 
 # 🤖 Med-Pak ChatBot with Gemini LLM
 
@@ -78,6 +79,7 @@ For inquiries or collaborations, connect with me through 📬:
 - Email: [xie19113@gmail.com](mailto:xie19113@gmail.com@gmail.com)
 - Email: [Sameerrizwanf23@gmail.com](mailto:sameerrizwanf23@gmail.com)
 - Email: [jawariasabirf23@gmail.com](mailto:jawariasabirf23@gmail.com@gmail.com)
+
 
 
 
